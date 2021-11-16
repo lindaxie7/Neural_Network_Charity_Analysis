@@ -36,7 +36,7 @@ EIN and NAME
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 Two hidden layers were used initially, 75 nodes were used in first hidden layer, 25 nodes were used in the second hidden layer.
-Two different activation functions were used, relu activation function were used for the hidden layers and sigmoid activatio function was used for the output layer.
+Two different activation functions were used, "relu" activation function were used for the hidden layers and "sigmoid" activatio function was used for the output layer.
 
 - Were you able to achieve the target model performance? 
  
