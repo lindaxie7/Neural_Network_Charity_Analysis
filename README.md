@@ -11,13 +11,21 @@ IS_SUCCESSFUL—Was the money used effectively
 - What variable(s) are considered to be the features for your model?
 
 APPLICATION_TYPE—Alphabet Soup application type
+
 AFFILIATION—Affiliated sector of industry
+
 CLASSIFICATION—Government organization classification
+
 USE_CASE—Use case for funding
+
 ORGANIZATION—Organization type
+
 STATUS—Active status
+
 INCOME_AMT—Income classification
+
 SPECIAL_CONSIDERATIONS—Special consideration for application
+
 ASK_AMT—Funding amount requested
 
 - What variable(s) are neither targets nor features, and should be removed from the input data?
@@ -26,6 +34,7 @@ EIN and NAME
 
 ### Compiling, Training, and Evaluating the Model
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
 Two hidden layers were used initially, 75 nodes were used in first hidden layer, 25 nodes were used in the second hidden layer.
 Two different activation functions were used, one for the hidden layers and another for the output.
 
