@@ -38,10 +38,15 @@ EIN and NAME
 Two hidden layers were used initially, 75 nodes were used in first hidden layer, 25 nodes were used in the second hidden layer.
 Two different activation functions were used, one for the hidden layers and another for the output.
 
-- Were you able to achieve the target model performance?
+- Were you able to achieve the target model performance? is not achieved.
+Target accuracy of 75% is not achieved.
 
 - What steps did you take to try and increase model performance?
+- Attempt 1: Additional hidden layer was added, Added more neurons for each hidden layer
 
+- Attempt 2: Removed fields that could be driving noise within the data, Changed the activiation function on the output layer, added one more bins with the "INCOME_AMT" coolumn for rare occurrences in columns
+
+- Attempt 3: Added the number of epochs to the training regime, Removed one more field that could be driving noise within the data
 
 ## Summary
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+None of the four attempts were able to achive the target accuracy of 75%, a different model is needed.
