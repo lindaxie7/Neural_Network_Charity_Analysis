@@ -51,4 +51,4 @@ Attempt 2: Removed fields that could be driving noise within the data, Changed t
 Attempt 3: Added the number of epochs to the training regime, Removed one more field that could be driving noise within the data
 
 ## Summary
-None of the four attempts were able to achive the target accuracy of 75%, a different model is needed.
+None of the three attempts for optimization were able to achive the target accuracy of 75%, a different model is needed.
