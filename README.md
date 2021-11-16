@@ -38,7 +38,8 @@ EIN and NAME
 Two hidden layers were used initially, 75 nodes were used in first hidden layer, 25 nodes were used in the second hidden layer.
 Two different activation functions were used, one for the hidden layers and another for the output.
 
-- Were you able to achieve the target model performance? is not achieved.
+- Were you able to achieve the target model performance? 
+
 Target accuracy of 75% is not achieved.
 
 - What steps did you take to try and increase model performance?
