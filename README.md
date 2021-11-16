@@ -42,11 +42,12 @@ Two different activation functions were used, one for the hidden layers and anot
 Target accuracy of 75% is not achieved.
 
 - What steps did you take to try and increase model performance?
-- Attempt 1: Additional hidden layer was added, Added more neurons for each hidden layer
 
-- Attempt 2: Removed fields that could be driving noise within the data, Changed the activiation function on the output layer, added one more bins with the "INCOME_AMT" coolumn for rare occurrences in columns
+Attempt 1: Additional hidden layer was added, Added more neurons for each hidden layer
 
-- Attempt 3: Added the number of epochs to the training regime, Removed one more field that could be driving noise within the data
+Attempt 2: Removed fields that could be driving noise within the data, Changed the activiation function on the output layer, added one more bins with the "INCOME_AMT" coolumn for rare occurrences in columns
+
+Attempt 3: Added the number of epochs to the training regime, Removed one more field that could be driving noise within the data
 
 ## Summary
 None of the four attempts were able to achive the target accuracy of 75%, a different model is needed.
